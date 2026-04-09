@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>approval</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-09 13:06:58</sys_created_on>
+        <sys_id>8b6e57c353440310657079b0a0490ee9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>approval</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_action_8b6e57c353440310657079b0a0490ee9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-09 13:10:53</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <ui_policy display_value="NeedIt show or hide Other field">788d5b4353440310657079b0a0490e72</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=8b6e57c353440310657079b0a0490ee9"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>520f0f2ddbfeb110b1eb9027c596190b</instance_id>
+        <instance_name>dev228166</instance_name>
+        <name>sys_ui_policy_action_8b6e57c353440310657079b0a0490ee9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>approval</field><field_message/><field_message_type>none</field_message_type><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-09 13:06:58</sys_created_on><sys_id>8b6e57c353440310657079b0a0490ee9</sys_id><sys_mod_count>1</sys_mod_count><sys_name>approval</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_action_8b6e57c353440310657079b0a0490ee9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-09 13:10:53</sys_updated_on><table>x_58872_needit_needit</table><ui_policy display_value="NeedIt show or hide Other field">788d5b4353440310657079b0a0490e72</ui_policy><value/><value_action>ignore</value_action><visible>true</visible></sys_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=8b6e57c353440310657079b0a0490ee9"/></record_update>]]></payload>
+        <payload_hash>1612704506</payload_hash>
+        <record_name>approval</record_name>
+        <reverted_from/>
+        <source>7e441a2253480310657079b0a0490e7d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-09 13:10:53</sys_created_on>
+        <sys_id>389f9b4753440310657079b0a0490eea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d725df44c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-09 13:10:53</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>749f9b47cd440310cfe7c172bcd946e9</update_guid>
+        <update_guid_history>749f9b47cd440310cfe7c172bcd946e9:1612704506,d3ae5bc3b3440310810eb42826306c69:-1694316190</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-09 13:16:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>220fccb444834f82928d6c916f48b724</sys_id>
+        <sys_metadata>8b6e57c353440310657079b0a0490ee9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>approval</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt show or hide Other field">788d5b4353440310657079b0a0490e72</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_8b6e57c353440310657079b0a0490ee9</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_8b6e57c353440310657079b0a0490ee9">389f9b4753440310657079b0a0490eea</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-09 13:16:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
